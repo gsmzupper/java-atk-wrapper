@@ -14,3 +14,4 @@ wrapper:  the Java library that listens to Swing events, and adapting JAAPI
 jni:      the C library that converts Swing events into GSignals and talks
           to ATK-Bridge
 
+Este projeto, tem como foco, tornar o desenvolvimento com java acessível também no Linux. O mesmo está descontinuado e eu pretendo no próximo ano, começar a contribuir para ressuscitar este projeto. Quero dar aos cegos a oportunidade te ter mais um sistema operacional para programar podendo assim tornar, o mundo mais acessível e inclusivo.
